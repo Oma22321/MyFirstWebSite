@@ -32,25 +32,25 @@ nav a:visited {
     text-decoration: none;
     padding: 0.5rem;
     background-color: Black;
-    color: #ebe6dc;
+    color: White;
 }
 
 nav a:hover,
 nav a:active {
     background-color: Black;
-    color: #dfb666;
+    color: White;
 }
 #thisPage {
     background-color: #9d7010;
-    color: #ebe6dc;
+    color: Red;
 }
 
 h1,
 h3 {
-    color: blue;
+    color: Black;
 }
 h2 {
-    color: red;
+    color: Black;
 }
 
 h1 {
@@ -67,8 +67,8 @@ a:visited {
 
 a:hover,
 a:active {
-    color: #000000;
-    background-color: #FC6;
+    color: #White;
+    background-color: Red;
 }
 
 img {
